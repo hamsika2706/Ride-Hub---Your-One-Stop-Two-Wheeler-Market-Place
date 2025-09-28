@@ -1,1 +1,8 @@
 # Ride-Hub---Your-One-Stop-Two-Wheeler-Market-Place
+Buying or selling a two-wheeler can be complicated, with scattered information, hidden costs, and trust issues in used markets. With the rise of electric vehicles (EVs) and changing needs, we identified a need for a platform that makes this process easier. That’s how Ride Hub was created: a one-stop two-wheeler marketplace.
+
+Our platform allows users to browse, search, and filter bikes, scooters, and EVs. It includes finance tools like an EMI calculator and fuel cost estimator, helping users plan better without leaving the app. For those wanting to upgrade or save money, a used bike section lets users buy and sell with transparency. We also thought about dealers. A simple dashboard helps them manage listings, book test rides, and reach more customers. To keep things up-to-date, the app showcases upcoming launches, ensuring enthusiasts don’t miss the latest EVs or models.
+
+On the technical side, we built this using a React and Vite frontend, a Node.js backend, and a MongoDB database, which ensures speed and ease of use. Our system architecture is lightweight: User → React Frontend → Node.js API → MongoDB.
+
+What sets Ride Hub apart is its all-in-one approach. It combines new, used, and EV segments with finance tools and booking options in one place. Looking to the future, we plan to add AI-powered recommendations and price predictions for used bikes, making the platform smarter and more personalized. In short, Ride Hub isn’t just a listing site; it’s a complete two-wheeler marketplace designed for buyers, sellers, and dealers.
